@@ -1,0 +1,26 @@
+// LIMPEZA E VALIDAÇÃO
+
+const email="   email@email.com     ";
+//trim- remove os espaços inicio e fim
+const emailLimpo= email.trim();
+console.log(emailLimpo)
+
+//VALIDAÇÃO
+if(emailLimpo.includes("@")){
+    console.log("email válido")
+}else{
+    console.log("email inválido")
+}
+
+//TRANFORMAÇÃO DE TEXTO
+
+const tituloArtigo= "Como aprender JAVA RAIZ"
+//METODO upper (maisculo) e low (minisculo)
+const texto1 = tituloArtigo.toLowerCase();
+console.log(texto1)
+//split - transforma o texto e, array
+const texto2 = tituloArtigo.split(" ");
+console.log(texto2)
+//join - junto tudo em uma unica string
+const texto3 = texto2.join("")
+console.log(texto3)
