@@ -1,0 +1,17 @@
+[33mcommit 4788ccd82b0ffddbb0e99c843f81a9dbd5ac7c93[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m
+Author: alyson <alysonartist@gmail.com>
+Date:   Tue Apr 28 11:28:37 2026 -0300
+
+    feat: Metodos toFixed e teplete Strings
+
+[33mcommit cef3884be6fae2731e3500a3758511ba17d440b7[m
+Author: alyson <alysonartist@gmail.com>
+Date:   Tue Apr 28 11:26:52 2026 -0300
+
+    feat: Metodos trim, split, includesm join
+
+[33mcommit 271dafd8ebbb076da57971b2070b996291e09398[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: alyson <alysonartist@gmail.com>
+Date:   Tue Apr 28 11:00:15 2026 -0300
+
+    chore: Estrutura e configuração do projeto
